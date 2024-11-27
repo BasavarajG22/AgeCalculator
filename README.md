@@ -46,13 +46,6 @@ Check out a live version of the Age Calculator here: [Age Calculator Demo](https
 
 ---
 
-## 🖼️ Preview
-
-Here's how the Age Calculator looks:  
-
-![Age Calculator Preview](C:\Users\Basavaraj\Pictures\Screenshots\age calculator)
-
----
 
 ## 📁 Project Structure
 
